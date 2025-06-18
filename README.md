@@ -26,4 +26,3 @@ src/main/resources/META-INF/MANIFEST.MF        # Манифест для jar
 Проект для личного/учебного/игрового использования.
 
 Разработчик: meowhiks
-Дизайн и помощь: Dimusus
